@@ -1836,7 +1836,7 @@ blockquote cite:before {
 }
 .full-width-header .rs-header .topbar-area .rs-contact-info .contact-part i:before {
   font-size: 26px;
-  color:#65e0af;
+  color:#e7373a;
 }
 .full-width-header .rs-header .topbar-area .rs-contact-info .contact-part .contact-info {
   float: left;
@@ -8223,7 +8223,7 @@ body .search-modal .close:hover {
   color: #106eea;
 }
 .rs-footer .footer-top .address-widget li i {
-  color: #106eea;
+  color: #e7373a;
   position: absolute;
   left: 0px;
 }
@@ -8254,7 +8254,7 @@ body .search-modal .close:hover {
   top: 1px;
   right: 1px;
   bottom: 1px;
-  background-image: linear-gradient(90deg, #03228f 0%, #0e73e4 100%);
+  background-color: #e7373a;
   border-radius: 50%;
   padding: 15px 28px 15px;
   font-family: "Flaticon";
@@ -8426,7 +8426,7 @@ body .search-modal .close:hover {
   border-radius: 50px 50px 4px 4px;
 }
 #scrollUp i {
-  background-image: linear-gradient(90deg, #03228f 0%, #0e73e4 100%);
+  background-color: #e7373a;
   border-radius: 50%;
   height: 40px;
   font-size: 24px;
